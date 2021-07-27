@@ -26,7 +26,5 @@ Gallery
 Requirements
 ------------
 
-- The tutorial requires the scientific data which can be obtained from figshare. 
-- Also required is the hiearchical clustering tool, pyprotoclust_.
-
-.. _pyprotoclust: pyprotoclust.readthedocs.io/en/latest/
+- The tutorial requires the `project's scientific data <https://doi.org/10.6084/m9.figshare.c.5526474>`_ which can be obtained from figshare.
+- Also required is the hiearchical clustering tool, `pyprotoclust <https://pyprotoclust.readthedocs.io/en/latest/>`_.
